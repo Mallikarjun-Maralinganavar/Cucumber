@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.Demowebshop.utils.HelperClass"/>
-      <class name="com.DemowebshopTest.StepDefinition.HooKs"/>
+      <class name="com.DemowebshopTest.StepDefinition.LoginStepDefinition"/>
+      <class name="com.DemowebshopTest.StepDefinition.RegisterStepDefinition"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
